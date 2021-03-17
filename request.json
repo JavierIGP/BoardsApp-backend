@@ -1,0 +1,122 @@
+{
+    "name": "Board 1",
+    "layout": "5f4987a250f2612579a60337",
+    "data": {
+        "goals": [{
+            "id": "46ef2f6f-728d-6003-ca20-864714276e81",
+            "text": "Plataforma de monitoreo de docencia"
+        }],
+        "users": [{
+            "id": "e8543455-2fab-bc65-6f38-cd81ddaa5f20",
+            "text": "Director"
+        },
+        {
+            "id": "b2faede3-9227-001f-d6d8-a72fdfacff2f",
+            "text": "Jefe docente"
+        },
+        {
+            "id": "8ab1e7d5-83f9-c4e3-22c6-28d5f93acb28",
+            "text":"Académicos"
+        }],
+        "manual-input": [{
+            "id": "5e342096-056e-5a49-9621-800793cb21a4",
+            "text": "API de Ucampus"
+        }],
+        "automatic-input": [{
+            "id": "2f69b303-0cda-90dc-47b2-a8542996770d",
+            "text": "API de Ucampus"
+        }],
+        "concepts": [{
+            "id": "66a2f102-fc4f-c6dc-ac3b-0c7de46ef519",
+            "text": "Profesor"
+        },
+        {
+            "id": "9c16b3b7-836e-75e6-9fb8-ab33d392a04c",
+            "text": "Alumno"
+        },
+        {
+            "id": "a7d2daa2-0d67-a54d-4c64-6181e3a12880",
+            "text": "Nota"
+        },
+        {
+            "id": "55ac1ca1-320e-fedc-02d6-2b4b68f1fe0b",
+            "text": "Curso"
+        },
+        {
+            "id": "e8203b00-e533-5678-0c95-7d218e6309fa",
+            "text": "Ramo"
+        },
+        {
+            "id": "330c3dbd-a028-343d-8cb2-b2f3d6bbf591",
+            "text": "Carrera"
+        },
+        {
+            "id": "e7c195b2-3cff-a5d2-ab4d-af793c2ecc9a",
+            "text": "Evaluación docente"
+        },
+        {
+            "id": "b60b2947-2fe6-cfec-9c1e-599116c796c3",
+            "text": "Programa"
+        }],
+        "vizualization": [{
+            "id": "5f5d6721-2407-bdda-c1ff-a1a02ddad705",
+            "text": "Tasa de reprobación"
+        },
+        {
+            "id": "ea7e1ae8-80ed-f94b-d62e-2b009b20922b",
+            "text": "Calidad de la docencia"
+        },
+        {
+            "id": "0bd75479-f529-9319-7e34-8592b781fdc6",
+            "text": "Carga docente"
+        },
+        {
+            "id": "e97b7ce3-36f1-c66e-1251-341214d36c9f",
+            "text": "Tasa de ingreso/egreso"
+        }],
+        "notification": [{
+            "id": "49f9f250-642c-1f1c-ba3c-ed8e13a0bbb7",
+            "text": "Extracción incremental"
+        },
+        {
+            "id": "7417601a-f784-0b74-176f-42c0804d0e99",
+            "text": "Sin transformación"
+        }],
+        "functionality": [{
+            "id": "84c2b81e-cbe8-42b0-d8e0-a168dae5b1ac",
+            "text": "Proceso de cálculo de tasa de reprobación"
+        },
+        {
+            "id": "7e9fde63-0ba3-4b01-dce9-55c942e01952",
+            "text": "Cálculo de calidad de docencia"
+        },
+        {
+            "id": "eafa13b6-6e11-3d4a-6f1c-04ca455eeeb0",
+            "text": "Cálculo de carga docente"
+        },
+        {
+            "id": "1f9afa42-51fc-0401-ae29-cb3b24f80e88",
+            "text": "Cálculo de tasa de progreso"
+        }],
+        "environment": [{
+            "id": "d457eb73-5e72-021b-0b4d-c7c8c5312859",
+            "text": "Notificación de resultados"
+        },
+        {
+            "id": "1b726caa-b6d2-0bb6-e2f5-9d9c8783077e",
+            "text": "Filtros en gráficos"
+        },
+        {
+            "id": "938d01aa-1196-6c06-d97e-15f9a049f76e",
+            "text": "Alerta por correo de evaluaciones docentes bajas"
+        },
+        {
+            "id": "255176ab-f5c3-8a9b-53c3-0b0eab0a0251",
+            "text": "Gráficos de indicadores por periodo"
+        },
+        {
+            "id": "4ab7dfd9-b778-fe90-b800-c40148a6542a",
+            "text": "Gráficos de indicadores anonimizados"
+        }]
+    }
+}

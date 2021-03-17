@@ -1,0 +1,23 @@
+{
+  "name": "Board Demo",
+  "layout": "5f4987a250f2612579a60337",
+  "data": {
+    "cards": {
+      "35d47244-e7cf-bd1a-d213-a320e4107a8a": {
+        "text": "hola",
+        "description": "que tal"
+      }
+    },
+    "sections": {
+      "goals": [],
+      "users": [],
+      "manual-input": [],
+      "automatic-input": [],
+      "concepts": ["35d47244-e7cf-bd1a-d213-a320e4107a8a"],
+      "vizualization": [],
+      "notification": [],
+      "functionality": [],
+      "environment": []
+    }
+  }
+}

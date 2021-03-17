@@ -1,0 +1,87 @@
+{
+    "name":"Layout 1",
+    "grid": {
+        "grid-template-columns": "repeat(6, 1fr)"
+    },
+    "categories": [{
+        "id": "goals",
+        "label": "Objetivos",
+        "grid-column-start": "1",
+        "grid-column-end": "4",
+        "grid-row-start": "1",
+        "grid-row-end": "2",
+        "min-height": "100px"
+    },
+    {
+        "id": "users",
+        "label": "Usuarios",
+        "grid-column-start": "4",
+        "grid-column-end": "7",
+        "grid-row-start": 1,
+        "grid-row-end": 2,
+        "min-height": "100px"
+    },
+    {
+        "id":"manual-input",
+        "label": "Entradas Manuales",
+        "grid-column-start": "1",
+        "grid-column-end": "3",
+        "grid-row-start": "2",
+        "grid-row-end": "3",
+        "min-height": "100px"
+    },
+    {
+        "id":"automatic-input",
+        "label": "Entradas Automáticas",
+        "grid-column-start": "1",
+        "grid-column-end": "3",
+        "grid-row-start": "3",
+        "grid-row-end": "4",
+        "min-height": "100px"
+    },
+    {
+        "id": "concepts",
+        "label": "Conceptos",
+        "grid-column-start": "3",
+        "grid-column-end": "5",
+        "grid-row-start": "2",
+        "grid-row-end": "4",
+        "min-height": "200px"
+    },
+    {
+        "id":"vizualization",
+        "label": "Visualización y Reportes",
+        "grid-column-start": "5",
+        "grid-column-end": "7",
+        "grid-row-start": "2",
+        "grid-row-end": "3",
+        "min-height": "200px"
+    },
+    {
+        "id":"notification",
+        "label": "Notificaciones",
+        "grid-column-start": "5",
+        "grid-column-end": "7",
+        "grid-row-start": "3",
+        "grid-row-end": "4",
+        "min-height": "200px"
+    },
+    {
+        "id":"functionality",
+        "label": "Funcionalidad",
+        "grid-column-start": "1",
+        "grid-column-end": "7",
+        "grid-row-start": "4",
+        "grid-row-end": "5",
+        "min-height": "100px"
+    },
+    {
+        "id":"environment",
+        "label": "Entorno",
+        "grid-column-start": "1",
+        "grid-column-end": "7",
+        "grid-row-start": "5",
+        "grid-row-end": "6",
+        "min-height": "100px"
+    }]
+}
